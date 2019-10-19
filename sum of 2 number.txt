@@ -1,4 +1,4 @@
-// sum of 2 number using pre-definedd method
+// sum of 2 number using pre-defined method in java
 import java.lang.*; 
   
 public class Geeks { 
